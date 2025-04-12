@@ -20,6 +20,7 @@
 import ar from './ar.js';
 import bn from './bn.js';
 import br from './br.js';
+import bm from './bm.js';
 import da from './da.js';
 import de from './de.js';
 import emoji from './emoji.js';
@@ -59,6 +60,7 @@ export default {
     ar,
     bn,
     br,
+    bm,
     da,
     de,
     emoji,
